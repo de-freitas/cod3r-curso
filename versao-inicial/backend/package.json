@@ -16,17 +16,19 @@
     "consign": "0.1.6",
     "cors": "2.8.4",
     "express": "4.16.3",
-    "jwt-simple": "0.5.1",
-    "knex": "0.15.2",
-    "moment": "2.22.2",
+    "jwt-simple": "^0.5.6",
+    "knex": "^2.3.0",
+    "moment": "^2.29.4",
+    "mongod": "^2.0.0",
+    "mongodb": "^4.10.0",
     "mongoose": "^5.2.17",
     "node-schedule": "1.3.0",
-    "passport": "0.4.0",
+    "passport": "^0.6.0",
     "passport-jwt": "4.0.0",
-    "pg": "7.4.3",
-    "pm2": "3.0.4"
+    "pg": "^8.8.0",
+    "pm2": "^5.2.0"
   },
   "devDependencies": {
-    "nodemon": "1.18.4"
+    "nodemon": "^2.0.20"
   }
 }
